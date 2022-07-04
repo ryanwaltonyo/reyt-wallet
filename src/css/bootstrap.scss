@@ -1,0 +1,17 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Baskervville&display=swap');
+$primary: #2C4C4D;
+$body-bg:#FAF9F6;
+$dark:#242424;
+$font-family-sans-serif: "Baskervville";
+$border-radius: 0px;
+$light:#EAE7E0;
+
+@import "~bootstrap/scss/bootstrap";
+
+.btn{
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-right: 27px;
+    padding-left: 27px;
+}
